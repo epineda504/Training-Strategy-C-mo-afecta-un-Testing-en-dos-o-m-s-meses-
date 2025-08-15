@@ -1,4 +1,4 @@
-# Training-Strategy-C-mo-afecta-un-Testing-en-dos-o-m-s-meses-
+# Training-Strategy Cómo Afecta Un Testing en dos o máss meses 
 
 Script del mejor experimento efectuado
 
